@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ValberJunior/ValberJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html>
+  <head>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  </head>
 
-Here are some ideas to get you started:
+<body>
+<h2>I'm Valber Júnior</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I living in :Brazil:, Rio de Janeiro ⛱😎❤
+#I believe the art of development is magic, and in this world of technology, continuous knowledge is the key to success.
+
+<h3>I'm studying to become a Full Stack developer on technologies:</h3><br>
+<i class="devicon-devicon-plain"></i> <i class="devicon-devicon-plain"></i>
+  
+</body>  
+
+</html>
+  
