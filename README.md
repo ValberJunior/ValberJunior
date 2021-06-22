@@ -1,23 +1,32 @@
-### Hi there 👋
+# Hi there 👋
+# I'm Valber Júnior
+### I living in Brazil 💚💛💙, Rio de Janeiro 😎😍⛱❤
+### I believe the art of development is magic, and in this world of technology, continuous knowledge is the key to success.✅
+
+### - I am studying to become a Full Stack developer. :sparkling_heart: :computer:
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/valber-junior-238217b4/" target="_blank">
+<img align="center" alt="Valber-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/valber_junnior/" target="_blank">
+<img align="center" alt="Valber-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
+<a href="https://www.facebook.com/junior.vieira.33886305/" target="_blank">
+<img align="center" alt="Valber-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+</a>
+
+## My Skills
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 
-  <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-    
-   
-  </head>
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&count_private=true&theme=radical)
 
-<body>
-<h2>I'm Valber Júnior</h2>
-
-<h2> I living in 🇧🇷, Rio de Janeiro ⛱😎❤
-- I believe the art of development is magic, and in this world of technology, continuous knowledge is the key to success.</h2>
-
-<h3>I'm studying to become a Full Stack developer on technologies:</h3><br>
-
- <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i> 
-  <i class="devicon-jquery-plain-wordmark colored"></i> <i class="devicon-bootstrap-plain-wordmark colored"></i> <i class="devicon-react-original-wordmark colored"></i>
-  <i class="devicon-firebase-plain-wordmark colored"></i> <i class="devicon-nodejs-plain colored"></i> <i class="devicon-mongodb-plain-wordmark colored"></i>
-  
-</body>  
 
