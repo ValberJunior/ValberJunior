@@ -10,7 +10,7 @@
 <body>
 <h2>I'm Valber Júnior</h2>
 
-<h2> I living in :Brazil:, Rio de Janeiro ⛱😎❤
+<h2> I living in :brazil:, Rio de Janeiro ⛱😎❤
 - I believe the art of development is magic, and in this world of technology, continuous knowledge is the key to success.</h2>
 
 <h3>I'm studying to become a Full Stack developer on technologies:</h3><br>
