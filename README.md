@@ -1,9 +1,10 @@
 ### Hi there 👋
 ## I'm Valber Júnior
-### I living in Brazil 💚💛💙, Rio de Janeiro 😎😍⛱❤
+### I living in Brazil 💚💛, Rio de Janeiro 😎⛱❤
 ### I believe the art of development is magic, and in this world of technology, continuous knowledge is the key to success.✅
 
 ### - I am studying to become a Full Stack developer. :sparkling_heart: :computer:
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/valber-junior-238217b4/" target="_blank">
@@ -35,6 +36,11 @@
 </br></br>
 
 
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&count_private=true&theme=radical)
-
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+    ![Snake animation](https://github.com/ValberJunior/ValberJunior/blob/output/github-contribution-grid-snake.svg)
 
