@@ -34,7 +34,7 @@
  </div>
  <br><br><br>
  
-           <a href="https://github.com/ValberJunior">
+ 
         
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=radical"/>
   
