@@ -41,6 +41,6 @@
          <img src="https://cdn.iconscout.com/icon/free/png-64/electron-3628748-3029973.png" alt="Electron" width="60px" height="60px"> 
  </div>
  <br><br><br>
- 
-      
-           
+ <div>
+    ![Snake animation](https://github.com/valberjunior/valberjunior/blob/output/github-contribution-grid-snake.svg)
+ </div>          
