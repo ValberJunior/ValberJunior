@@ -11,8 +11,6 @@
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&&layout=compact&hide=shell&theme=dark"/>
 </div>
 <br>
-  <img align="center" width="148" height="180" src="https://media.giphy.com/media/Xev2JdopBxGj1LuGvt/giphy.gif">
- <br>
 
 ## Connect with me:
 
@@ -43,6 +41,6 @@
  <br><br><br>
    </div>
   
-  ![Snake animation](https://github.com/ValberJunior/ValberJunior/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ValberJunior/rafaballerini/blob/output/github-contribution-grid-snake.svg)
       
    
