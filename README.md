@@ -33,7 +33,7 @@
          <img src="https://cdn.iconscout.com/icon/free/png-64/electron-3628748-3029973.png" alt="Electron" width="60px" height="60px"> 
  </div>
  <br><br><br>
- <div>
+ 
            <a href="https://github.com/ValberJunior">
         
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=radical"/>
@@ -41,6 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&layout=compact&langs_count=16&theme=radical"/>
  
            
-              ![Snake animation](https://github.com/rafaballerini/ValberJunior/blob/output/github-contribution-grid-snake.svg)
+
    
            
