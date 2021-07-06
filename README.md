@@ -34,9 +34,9 @@
          <img src="https://cdn.iconscout.com/icon/free/png-64/electron-3628748-3029973.png" alt="Electron" width="60px" height="60px"> 
  </div>
  <br><br><br>
- <div style="display=inline-block">
+ <div>
            <a href="https://github.com/ValberJunior">
-           <img width="470px" height="150px" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-           <img width="470px" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&layout=compact&langs_count=16&theme=dracula"/>
+           <img width="500px" height="300px" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+           <img width="500px" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&layout=compact&langs_count=16&theme=dracula"/>
          </div>
  
