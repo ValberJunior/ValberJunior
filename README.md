@@ -35,7 +35,12 @@
  <br><br><br>
  <div>
            <a href="https://github.com/ValberJunior">
-           <img width="500px" height="300px" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-           <img width="500px" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&layout=compact&langs_count=16&theme=dracula"/>
-         </div>
+        
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=radical"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&layout=compact&langs_count=16&theme=radical"/>
  
+           
+              ![Snake animation](https://github.com/rafaballerini/ValberJunior/blob/output/github-contribution-grid-snake.svg)
+   
+           
