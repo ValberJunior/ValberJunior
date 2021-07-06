@@ -5,7 +5,6 @@
 
 ### - I am studying to become a Full Stack developer. <img src='https://cdn.iconscout.com/icon/free/png-64/developer-2309864-1943774.png' width="60px">
 
-<img src='https://cdni.iconscout.com/illustration/premium/thumb/web-development-3465540-2928730.png'>
 
 ## Connect with me:
 
