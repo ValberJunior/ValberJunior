@@ -5,10 +5,10 @@
 
 ### - I am studying to become a Full Stack developer. <img src='https://cdn.iconscout.com/icon/free/png-64/developer-2309864-1943774.png' width="60px">
 <br>
-<div>
+<div style="display=inline-block">
   <a href="https://github.com/ValberJunior">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&&layout=compact&hide=shell&theme=dark"/>
+  <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ValberJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberJunior&&layout=compact&hide=shell&theme=dark"/>
 </div>
 <br>
   <img align="center" width="148" height="180" src="https://media.giphy.com/media/Xev2JdopBxGj1LuGvt/giphy.gif">
@@ -43,4 +43,4 @@
  <br><br><br>
  
       
-            ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+           
