@@ -38,8 +38,8 @@
 <h2>Learning</h2>
  <div style="display=inline-block">
          
-         <img src="https://cdn.iconscout.com/icon/free/png-64/electron-3628748-3029973.png" alt="Electron" width="50px" height="50px" > 
-   <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="typescript" width="50px" height="50px" > 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/electron-3628748-3029973.png" alt="Electron" width="50px" height="50px" > 
+<img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="typescript" width="50px" height="50px" > 
 
  <br><br>
    </div>
