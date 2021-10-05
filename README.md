@@ -32,12 +32,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" height="50px" >
    <img src="http://jwt.io/img/logo-asset.svg" alt="jwt" width="110px" height="50px" >
   <img src="https://programacion.net/files/article/20160322050343_socket-io.png" alt="socketio" width="110px" height="50px" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px" >
  </div>
 
 <h2>Learning</h2>
  <div style="display=inline-block">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px" >
+         
          <img src="https://cdn.iconscout.com/icon/free/png-64/electron-3628748-3029973.png" alt="Electron" width="50px" height="50px" > 
+   <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="typescript" width="50px" height="50px" > 
 
  <br><br>
    </div>
