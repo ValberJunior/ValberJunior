@@ -39,6 +39,10 @@
  <div style="display=inline-block">
          
 <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="typescript" width="50px" height="50px" > 
+<img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" alt="angular" width="50px" height="50px" > 
+<img src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" alt="view" width="50px" height="50px" > 
+   
+   
 
  <br><br>
    </div>
