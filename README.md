@@ -42,7 +42,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" alt="angular" width="50px" height="50px" > 
 <img src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" alt="vuesJs" width="50px" height="50px" > 
 <img src="https://cdn.iconscout.com/icon/free/png-64/logo-1889531-1597591.png" alt="react native" width="50px" height="50px" > 
-<img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png alt="docker" width="50px" height="50px" > 
+<img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png" alt="docker" width="50px" height="50px" > 
   
 </div>  
    
