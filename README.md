@@ -23,6 +23,7 @@
 <div style="display=inline-block">
 <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript"width="50px" height="50px" >
          <img src="https://cdn.iconscout.com/icon/free/png-64/github-115-438237.png" alt="github" width="50px" height="50px" >
+  <img src="https://cdn.iconscout.com/icon/free/png-64/gitlab-282507.png" alt="gitlab" width="50px" height="50px" >
          <img src="https://cdn.iconscout.com/icon/free/png-64/html5-2038876-1720089.png" alt="html"width="50px" height="50px" >
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50px" height="50px" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50px" height="50px" >
@@ -33,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px" >
   <img src="https://cdn.iconscout.com/icon/free/png-64/electron-3628748-3029973.png" alt="Electron" width="50px" height="50px" > 
   <img src="https://cdn.iconscout.com/icon/free/png-64/sass-2752078-2284895.png" alt="sass" width:"50px" height="50px"/>
+ 
  </div>
 
 <h2>Learning</h2>
