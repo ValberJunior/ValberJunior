@@ -16,8 +16,7 @@
 
 <a href="https://www.linkedin.com/in/valber-junior-238217b4"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-40-151141.png" width="50px" height="50px" type="image/png" alt="logo linkedin" ></a>
 <a href="https://www.instagram.com/valber_junnior/"><img src="https://cdn.iconscout.com/icon/free/png-64/instagram-188-498425.png" width="50px" height="50px"  type="image/png" alt="logo instagram" ></a>
-<a href="https://www.facebook.com/junior.vieira.33886305/"><img src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" width="50px" height="50px"  type="image/png" alt="logo facebook" ></a>
-           <a href="https://api.whatsapp.com/send?phone=5521977330559"><img src="https://cdn.iconscout.com/icon/free/png-64/whatsapp-43-189795.png" width="50px" height="50px"  type="image/png" alt="logo whatsapp" ></a>
+
 
 <h2>My Skills:</h2>
 <div style="display=inline-block">
