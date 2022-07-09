@@ -46,6 +46,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" alt="angular" width="50px" height="50px" > 
 <img src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" alt="vuesJs" width="50px" height="50px" > 
 <img src="https://cdn.iconscout.com/icon/free/png-64/logo-1889531-1597591.png" alt="react native" width="50px" height="50px" > 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="postgres" width="50px" height="50px" > 
   
 </div>  
    
