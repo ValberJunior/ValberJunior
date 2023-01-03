@@ -37,6 +37,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png" alt="docker" width="50px" height="50px" > 
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="50px" height="50px" > 
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="postgres" width="50px" height="50px" > 
+  <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" alt="angular" width="50px" height="50px" > 
  
  </div>
 
@@ -44,7 +45,6 @@
  <div style="display=inline-block">
          
 
-<img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" alt="angular" width="50px" height="50px" > 
 <img src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" alt="vuesJs" width="50px" height="50px" > 
 <img src="https://cdn.iconscout.com/icon/free/png-64/logo-1889531-1597591.png" alt="react native" width="50px" height="50px" > 
   
