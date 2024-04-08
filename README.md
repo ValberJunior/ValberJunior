@@ -40,7 +40,7 @@
    <img src="https://vitejs.dev/logo.svg" alt="vite" width="50px" height="50px" >  
  </div>
 
-<h2>Learning</h2>
+<!-- <h2>Learning</h2>
  <div style="display=inline-block">
          
 
@@ -48,8 +48,11 @@
 <img src="https://cdn.iconscout.com/icon/free/png-64/logo-1889531-1597591.png" alt="react native" width="50px" height="50px" > 
   
 </div>  
-   
-   
+ -->  
+
+ <br><br>
+
+ **![contrib graph](./profile-3d-contrib/profile-gitblock.svg)**
 
  <br><br>
 
