@@ -34,11 +34,17 @@
   <img src="https://cdn.iconscout.com/icon/free/png-64/sass-2752078-2284895.png" alt="sass" width:"50px" height="50px"/>
   <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="typescript" width="50px" height="50px" > 
   <img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png" alt="docker" width="50px" height="50px" > 
-  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="50px" height="50px" > 
+  <img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-md.png" width="50px" height="50px" alt="tailwindcss">
+  <img src="https://cdn.creazilla.com/icons/3270329/next-dot-js-icon-size_256.png" alt="nextjs" width="50px" height="50px" style="border-radius:50%" > 
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="postgres" width="50px" height="50px" > 
   <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" alt="angular" width="50px" height="50px" > 
    <img src="https://vitejs.dev/logo.svg" alt="vite" width="50px" height="50px" >  
-  <img src="https://iconscout.com/free-3d-illustration/nestjs-9294862_7578005" alt="nestjs" width="50px" height="50px"/>
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/terra-form-logo-freelogovectors.net_.png"  width="50px" height="50px" alt="terraform"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="50px" height="50px" alt="kubernetes"/>
+  <img src="https://img.icons8.com/color/600/nestjs.png"  width="50px" height="50px" alt="nest"/>
+  <img src="https://cdn.creazilla.com/icons/3254252/python-icon-sm.png" width="50px" height="50px" alt="python"/>
+  <img src="https://cdn.creazilla.com/icons/3253504/aws-icon-sm.png" witdh="50px" height="50px" alt="aws"/>
+  <img src="https://cdn.creazilla.com/icons/3270368/openai-icon-md.png" witdh="50px" height="50px" alt="openai"/>
  </div>
 
 <!-- <h2>Learning</h2>
