@@ -14,8 +14,6 @@
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/valber-junior-238217b4"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-40-151141.png" width="50px" height="50px" type="image/png" alt="logo linkedin" ></a>
-<a href="https://www.instagram.com/valber_junnior/"><img src="https://cdn.iconscout.com/icon/free/png-64/instagram-188-498425.png" width="50px" height="50px"  type="image/png" alt="logo instagram" ></a>
-
 
 <h2>My Skills:</h2>
 <div style="display=inline-block">
